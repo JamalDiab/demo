@@ -1,3 +1,1 @@
-This is my first file
-asda
-Hello update
+Master branch rules
